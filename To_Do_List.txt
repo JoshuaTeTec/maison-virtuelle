@@ -1,3 +1,5 @@
+- le son sur les appels en capture d'ecran ne fonctionne pas le mettre en place voir configurer quelquechose pour qu'on puisse regler le pourcentage de la parole et de la vidéo. 
+
 - réfléchir à un système de base de donnée pour faire du hors ligne: archives avec les différents cadeaux et poèmes qu'on s'est fait, possibilité d'en ajouter …, album photo en commun, affiche avec des post it pour ecrire des mots à l'autre qui s'enlevent de la base de donnée quand ils sont lu. une lettre sur une table avec une question génrer aléatoirement. avoir des titres de livres dans une bibliothèque et pouvoir en ajouter.
 
 - réorganisation spatial de la chambre 
