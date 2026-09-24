@@ -4,8 +4,8 @@ import { useState, useRef, useEffect } from 'react'
 
 // --- VOS CONFIGURATIONS ---
 const RENDER_URL = "wss://webrtc-serveur.onrender.com";
-// Remplacez le lien ci-dessous par le lien d'intégration (Embed) de votre playlist commune
-const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator&theme=0";
+// Remplacez le lien ci-dessous par le lien d'intégration (Embed) de la playlist voulu
+const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/embed/playlist/26YKShVchAyQv0L2E55sLU?si=8iLCggUATkeSTDfHtlbR_A&utm_source=copy-link&pi=YHCfce2EQy6TE";
 
 function App() {
   // SÉCURITÉ
